@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@fightmegg/riot-api": "^0.0.17",
+    "galeforce": "^0.6.1",
+    "kayn": "^0.10.2",
+    "leagueapiwrapper": "^2.5.0",
+    "leaguejs": "^2.3.1",
+    "pyke": "^3.1.1",
+    "react": "^18.2.0",
+    "shieldbow": "^2.2.0",
+    "teemojs": "^1.9.0",
+    "twisted": "^1.53.2"
+  }
+}
